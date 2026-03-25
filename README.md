@@ -1,2 +1,2 @@
 # Java-Learn
-Reposiitório para manter conteúdos do curso de java do Prof. Dr. Nelio Alves
+Reposiitório para manter conteúdos do curso de Java do Prof. Dr. Nelio Alves
